@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "591174860495",
+    "firebase_url": "https://lojaflutter-f8fc0.firebaseio.com",
+    "project_id": "lojaflutter-f8fc0",
+    "storage_bucket": "lojaflutter-f8fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591174860495:android:4a5da3e8e388e86df9c1ba",
+        "android_client_info": {
+          "package_name": "ribeiro.com.gerente_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591174860495-geqrjg5kiggg49cjl7avfk9irkc7qa6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH507cQc7d3PanXex4OoSrpxb_bf1KcmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591174860495-geqrjg5kiggg49cjl7avfk9irkc7qa6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591174860495:android:b487939359fc61a8f9c1ba",
+        "android_client_info": {
+          "package_name": "ribeiro.com.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591174860495-geqrjg5kiggg49cjl7avfk9irkc7qa6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH507cQc7d3PanXex4OoSrpxb_bf1KcmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591174860495-geqrjg5kiggg49cjl7avfk9irkc7qa6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
